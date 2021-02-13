@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         child: MainApp(),
       ),
       theme: ThemeData(fontFamily: "Abel"),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
